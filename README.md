@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eli Newman!
 - 👀 Interests: Business, startups, coding, AI, finance, outdoor adventures, and skiing/snowboarding.
-- 🌱 Currently Learning: Next.js, Python, and building AI-powered applications.
+- 🌱 Currently Learning: Python, and building AI-powered applications with langchain.
 - 💞️ Looking to Collaborate On: Innovative business ideas, AI projects, and anything tech-related.
 - 📫 How to Reach Me: elijn04@gmail.com
 - ⚡ Fun Fact: I once ran a bacon, egg, and cheese sandwich business on campus!
